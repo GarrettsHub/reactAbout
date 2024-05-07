@@ -1,0 +1,16 @@
+* {box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #2e2e2e;
+    color: white;
+}
+
+.bat-img {
+    width: 200px;
+}
+
+.header {
+    color: #c42b2b;
+}
